@@ -1,0 +1,29 @@
+.User-properties {
+  display: flex;
+}
+.User-properties__item {
+  display: flex;
+  align-items: center;
+  background-color: #7D3109;
+  margin: 0 0 0 0;
+}
+.User-properties__image {
+  margin-left: 65px;
+}
+.User-properties__image_account {
+  height: 42px;
+  width: 42px;
+  opacity: 0.5;
+}
+.User-properties__image_cart {
+  height: 32px;
+  width: 32px;
+  opacity: 0.5;
+}
+.User-properties__title {
+  font-family: HelveticaNeue, sans-serif;
+  font-size: 24px;
+  letter-spacing: 1.1px;
+  color: #6c7178;
+  margin-left: 5px;
+}

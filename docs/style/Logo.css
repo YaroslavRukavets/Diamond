@@ -1,0 +1,28 @@
+.Logo {
+  background-color: #3b5;
+  margin-top: 7px;
+  position: relative;
+}
+.Logo__image {
+  position: absolute;
+  left: 47px;
+}
+.Logo__name {
+  font-family: Raleway, sans-serif;
+  font-size: 22px;
+  letter-spacing: 3px;
+  margin: 0 0 0 0;
+  padding-top: 28px;
+}
+.Logo__description {
+  font-family: GillSans, sans-serif;
+  font-size: 16px;
+  letter-spacing: 3px;
+  color: #6c7178;
+  margin: 0 0 0 10px;
+}
+__image {
+  position: relative;
+  left: 44px;
+  top: 11px;
+}

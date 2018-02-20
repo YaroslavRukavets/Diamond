@@ -1,0 +1,25 @@
+.Log-in {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.Log-in__image {
+  margin-left: 65px;
+}
+.Log-in__image_account {
+  height: 42px;
+  width: 42px;
+  opacity: 0.5;
+}
+.Log-in__image_cart {
+  height: 32px;
+  width: 32px;
+  opacity: 0.5;
+}
+.Log-in__title {
+  font-family: HelveticaNeue, sans-serif;
+  font-size: 24px;
+  letter-spacing: 1.1px;
+  color: #6c7178;
+  margin-left: 5px;
+}

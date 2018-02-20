@@ -1,0 +1,13 @@
+.Product-offer {
+  margin: auto;
+  margin-bottom: 132px;
+}
+.Product-offer__wrapper {
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Product-offer__picture_1 {
+  height: 554px;
+}

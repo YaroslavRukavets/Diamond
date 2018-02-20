@@ -1,0 +1,16 @@
+.Product-catalog {
+  margin: auto;
+  margin-bottom: 132px;
+  /*background-image: url("../images/12_col.gif");*/
+}
+.Product-catalog__top,
+.Product-catalog__bottom {
+  display: flex;
+  justify-content: space-around;
+}
+.Product-catalog__section-name {
+  font-family: GillSans, sans-serif;
+  font-size: 28px;
+  font-weight: 300;
+  text-align: left;
+}

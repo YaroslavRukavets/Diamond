@@ -1,0 +1,259 @@
+.Grid-float {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1160px;
+}
+.Grid-float_12:after {
+  clear: both;
+}
+.Grid-float_12:before,
+.Grid-float_12:after {
+  content: '.';
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  display: block;
+  visibility: hidden;
+  font-size: 0;
+  line-height: 0;
+}
+.Grid-float__clear {
+  clear: both;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  display: block;
+  visibility: hidden;
+  font-size: 0;
+  line-height: 0;
+}
+.Grid-float__cell {
+  display: inline;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.Grid-float__cell_clearfix:after {
+  clear: both;
+}
+.Grid-float__cell_clearfix:before,
+.Grid-float__cell_clearfix:after {
+  content: '.';
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  display: block;
+  visibility: hidden;
+  font-size: 0;
+  line-height: 0;
+}
+.Grid-float__cell_alpha {
+  margin-left: 0;
+}
+.Grid-float__cell_omega {
+  margin-right: 0;
+}
+.Grid-float__cell_1 {
+  width: 76.66666667px;
+}
+.Grid-float__cell_push_1 {
+  position: relative;
+  left: 96.66666667px;
+}
+.Grid-float__cell_pull_1 {
+  position: relative;
+  left: -96.66666667px;
+}
+.Grid-float__cell_prefix_1 {
+  padding-left: 96.66666667px;
+}
+.Grid-float__cell_suffix_1 {
+  padding-right: 96.66666667px;
+}
+.Grid-float__cell_2 {
+  width: 173.33333333px;
+}
+.Grid-float__cell_push_2 {
+  position: relative;
+  left: 193.33333333px;
+}
+.Grid-float__cell_pull_2 {
+  position: relative;
+  left: -193.33333333px;
+}
+.Grid-float__cell_prefix_2 {
+  padding-left: 193.33333333px;
+}
+.Grid-float__cell_suffix_2 {
+  padding-right: 193.33333333px;
+}
+.Grid-float__cell_3 {
+  width: 270px;
+}
+.Grid-float__cell_push_3 {
+  position: relative;
+  left: 290px;
+}
+.Grid-float__cell_pull_3 {
+  position: relative;
+  left: -290px;
+}
+.Grid-float__cell_prefix_3 {
+  padding-left: 290px;
+}
+.Grid-float__cell_suffix_3 {
+  padding-right: 290px;
+}
+.Grid-float__cell_4 {
+  width: 366.66666667px;
+}
+.Grid-float__cell_push_4 {
+  position: relative;
+  left: 386.66666667px;
+}
+.Grid-float__cell_pull_4 {
+  position: relative;
+  left: -386.66666667px;
+}
+.Grid-float__cell_prefix_4 {
+  padding-left: 386.66666667px;
+}
+.Grid-float__cell_suffix_4 {
+  padding-right: 386.66666667px;
+}
+.Grid-float__cell_5 {
+  width: 463.33333333px;
+}
+.Grid-float__cell_push_5 {
+  position: relative;
+  left: 483.33333333px;
+}
+.Grid-float__cell_pull_5 {
+  position: relative;
+  left: -483.33333333px;
+}
+.Grid-float__cell_prefix_5 {
+  padding-left: 483.33333333px;
+}
+.Grid-float__cell_suffix_5 {
+  padding-right: 483.33333333px;
+}
+.Grid-float__cell_6 {
+  width: 560px;
+}
+.Grid-float__cell_push_6 {
+  position: relative;
+  left: 580px;
+}
+.Grid-float__cell_pull_6 {
+  position: relative;
+  left: -580px;
+}
+.Grid-float__cell_prefix_6 {
+  padding-left: 580px;
+}
+.Grid-float__cell_suffix_6 {
+  padding-right: 580px;
+}
+.Grid-float__cell_7 {
+  width: 656.66666667px;
+}
+.Grid-float__cell_push_7 {
+  position: relative;
+  left: 676.66666667px;
+}
+.Grid-float__cell_pull_7 {
+  position: relative;
+  left: -676.66666667px;
+}
+.Grid-float__cell_prefix_7 {
+  padding-left: 676.66666667px;
+}
+.Grid-float__cell_suffix_7 {
+  padding-right: 676.66666667px;
+}
+.Grid-float__cell_8 {
+  width: 753.33333333px;
+}
+.Grid-float__cell_push_8 {
+  position: relative;
+  left: 773.33333333px;
+}
+.Grid-float__cell_pull_8 {
+  position: relative;
+  left: -773.33333333px;
+}
+.Grid-float__cell_prefix_8 {
+  padding-left: 773.33333333px;
+}
+.Grid-float__cell_suffix_8 {
+  padding-right: 773.33333333px;
+}
+.Grid-float__cell_9 {
+  width: 850px;
+}
+.Grid-float__cell_push_9 {
+  position: relative;
+  left: 870px;
+}
+.Grid-float__cell_pull_9 {
+  position: relative;
+  left: -870px;
+}
+.Grid-float__cell_prefix_9 {
+  padding-left: 870px;
+}
+.Grid-float__cell_suffix_9 {
+  padding-right: 870px;
+}
+.Grid-float__cell_10 {
+  width: 946.66666667px;
+}
+.Grid-float__cell_push_10 {
+  position: relative;
+  left: 966.66666667px;
+}
+.Grid-float__cell_pull_10 {
+  position: relative;
+  left: -966.66666667px;
+}
+.Grid-float__cell_prefix_10 {
+  padding-left: 966.66666667px;
+}
+.Grid-float__cell_suffix_10 {
+  padding-right: 966.66666667px;
+}
+.Grid-float__cell_11 {
+  width: 1043.33333333px;
+}
+.Grid-float__cell_push_11 {
+  position: relative;
+  left: 1063.33333333px;
+}
+.Grid-float__cell_pull_11 {
+  position: relative;
+  left: -1063.33333333px;
+}
+.Grid-float__cell_prefix_11 {
+  padding-left: 1063.33333333px;
+}
+.Grid-float__cell_suffix_11 {
+  padding-right: 1063.33333333px;
+}
+.Grid-float__cell_12 {
+  width: 1140px;
+}
+.Grid-float__cell_push_12 {
+  position: relative;
+  left: 1160px;
+}
+.Grid-float__cell_pull_12 {
+  position: relative;
+  left: -1160px;
+}
+.Grid-float__cell_prefix_12 {
+  padding-left: 1160px;
+}
+.Grid-float__cell_suffix_12 {
+  padding-right: 1160px;
+}
