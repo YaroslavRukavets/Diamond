@@ -4,7 +4,6 @@
   border: solid 2px rgba(0, 0, 0, 0.09);
   display: flex;
   justify-content: baseline;
-  background-color: #00ADEF;
   margin-top: 14px;
 }
 .Search__input {
